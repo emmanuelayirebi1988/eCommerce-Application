@@ -1,0 +1,29 @@
+.add-maincontainer img{
+    /* display: flex;
+    border: 50px */
+    width:100px;
+
+}
+
+.confirmation-add{
+    width: 50vw;
+}
+
+.buttons {
+    width: 50vw;
+}
+
+.confirmation-add .subtotal{
+    color: blue;
+
+}
+
+.confirmation-add .loader{
+    border-radius: 10px;
+    height: 10px;
+    background-color: green;
+}
+
+.confirmation-add p{
+    color: blue;
+}
